@@ -28,7 +28,7 @@ The script will automatically install missing dependencies using `apt-get` if th
 1. Clone this repository:
    ```bash
    git clone https://github.com/dirtycoder0124/knoxss_automation.git
-   cd <repository-folder>
+   cd knoxss_automation
    ```
 2. Make the script executable:
    ```bash
